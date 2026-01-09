@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hi there, I'm Bünyamin Kerim Yılmaz!
+**Game Developer | Unity | C#**
 
-<!--
-**Bunyaminkerimyilmaz/Bunyaminkerimyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Game Developer focused on creating immersive gameplay experiences with Unity. Here you can find my latest projects and what I'm currently working on.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 My Portfolio
+
+| **🚚 Trade Truck** | **🧱 BlockBlock** | **🪐 PlanetMerge** |
+|:---:|:---:|:---:|
+| <img src="project1.jpg" width="300" height="170"> | <img src="project2.jpg" width="300" height="170"> | <img src="project3.jpg" width="300" height="170"> |
+| A survival-trading simulation set in a zombie apocalypse. Manage your mobile shop, trade resources, and survive in a hostile world. | A classic block puzzle game. Strategically fit blocks into the grid to clear lines and achieve high scores. | A physics-based merge puzzle. Drop planets from the top and combine identical ones to evolve them into massive celestial bodies. |
+| [View on GitHub](https://github.com/Bunyaminkerimyilmaz/TradeTruck) | [View on GitHub](https://github.com/Bunyaminkerimyilmaz/BLOCKBLOCK) <br> [📲 Google Play](https://play.google.com/store/apps/details?id=com.krox.block) | [View on GitHub](PLANETMERGE_GITHUB_LINKINI_YAPISTIR) |
+
+---
+
+### 🛠️ Tech Stack & Tools
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?style=flat-square&logo=sourcetree)
+
+---
+📫 **Connect with Me:** [LinkedIn Profile](https://www.linkedin.com/in/bunyamin-kerim/) | [Email Me](mailto:bunyaminkerimyilmaz6@gmail.com
+)
