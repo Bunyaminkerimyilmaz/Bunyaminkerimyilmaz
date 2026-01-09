@@ -9,9 +9,9 @@ I am a passionate Game Developer focused on creating immersive gameplay experien
 
 | **🚚 Trade Truck** | **🧱 BlockBlock** | **🪐 PlanetMerge** |
 |:---:|:---:|:---:|
-| <img src="project1.jpg" width="300" height="170"> | <img src="project2.jpg" width="300" height="170"> | <img src="project3.jpg" width="300" height="170"> |
+| <img src="project1.jpg" width="300" height="170"> | <img src="project2.jpg" width="200"> | <img src="project3.jpg" width="200"> |
 | A survival-trading simulation set in a zombie apocalypse. Manage your mobile shop, trade resources, and survive in a hostile world. | A classic block puzzle game. Strategically fit blocks into the grid to clear lines and achieve high scores. | A physics-based merge puzzle. Drop planets from the top and combine identical ones to evolve them into massive celestial bodies. |
-| [View on GitHub](https://github.com/Bunyaminkerimyilmaz/TradeTruck) | [View on GitHub](https://github.com/Bunyaminkerimyilmaz/BLOCKBLOCK) <br> [📲 Google Play](https://play.google.com/store/apps/details?id=com.krox.block) | [View on GitHub](PLANETMERGE_GITHUB_LINKINI_YAPISTIR) |
+| [View on GitHub](https://github.com/Bunyaminkerimyilmaz/TradeTruck) | [View on GitHub](https://github.com/Bunyaminkerimyilmaz/BLOCKBLOCK) <br> [📲 Google Play](https://play.google.com/store/apps/details?id=com.krox.block) | [View on GitHub](https://github.com/yavuzadali34/SpaceMerge) |
 
 ---
 
@@ -22,5 +22,4 @@ I am a passionate Game Developer focused on creating immersive gameplay experien
 ![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?style=flat-square&logo=sourcetree)
 
 ---
-📫 **Connect with Me:** [LinkedIn Profile](https://www.linkedin.com/in/bunyamin-kerim/) | [Email Me](mailto:bunyaminkerimyilmaz6@gmail.com
-)
+📫 **Connect with Me:** [LinkedIn Profile](https://www.linkedin.com/in/bunyamin-kerim/) | [Email Me](mailto:bunyaminkerimyilmaz6@gmail.com)
