@@ -22,4 +22,4 @@ I am a passionate Game Developer focused on creating immersive gameplay experien
 ![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?style=flat-square&logo=sourcetree)
 
 ---
-📫 **Connect with Me:** [LinkedIn Profile](https://www.linkedin.com/in/bunyamin-kerim/) | [Email Me](mailto:bunyaminkerimyilmaz6@gmail.com)
+📫 **Connect with Me:** [LinkedIn Profile](https://www.linkedin.com/in/bunyamin-kerim/) | 📧 bunyaminkerimyilmaz6@gmail.com
